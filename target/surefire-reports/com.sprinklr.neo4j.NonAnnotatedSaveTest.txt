@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sprinklr.neo4j.NonAnnotatedSaveTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.235 s -- in com.sprinklr.neo4j.NonAnnotatedSaveTest
